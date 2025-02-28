@@ -1,0 +1,8 @@
+// Change colors in RotatingGradientLoader
+Gradient(colors: [.blue, .purple, .blue])
+
+// Adjust animation speed in LottieAnimation
+animationSpeed: 1.0
+
+// Modify line width in Canvas
+let lineWidth: CGFloat = 8
